@@ -1,0 +1,29 @@
+Variables_&_DataTypes\Activity1.js"
+12
+SirajAhmed
+
+Variables_&_DataTypes\Activity2.js"
+true
+
+Variables_&_DataTypes\Activity3.js"
+Type of n is :  number
+Type of name is :  string
+Type of isTall is :  boolean
+Type of person is :  object
+Type of colors is :  object
+
+
+Variables_&_DataTypes\Activity4.js"
+Here Animal is  Cow
+Here Animal is  Cat
+
+
+Variables_&_DataTypes\Activity5.js"
+YOU CAN NOT CHANGE ME !!!!!!
+c:\Users\PMLS\Desktop\30 days of js\DAY-1\Variables_&_DataTypes\Activity5.js:14
+UNCHANGABLE = 'I CHANGED YOU';
+            ^
+
+TypeError: Assignment to constant variable.
+    at Object.<anonymous> (c:\Users\PMLS\Desktop\30 days of js\DAY-1\Variables_&_DataTypes\Activity5.js:14:13)
+
