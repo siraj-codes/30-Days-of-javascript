@@ -1,0 +1,44 @@
+Operators\Activity1.js"
+
+Additon is 12 + 45  = 57
+
+Multiplication is 12 * 45  = 540
+
+Divison is 12 / 45  = 0.26666666666666666
+
+Reminder is 12 % 45  = 12
+
+
+Operators\Activity2.js"
+
+value of n1 is 12 and n2 is 12
+
+value of n1 is 12 and n2 is 6
+
+
+Operators\Activity3.js"
+
+55 is greater then 45 true , 55 is lesser then 45 false
+
+
+45 is greater or equal then 45 true , 45 is lesser or equal then 45 true
+
+
+45 is equal (==) to 45 true , 45 is  equal(===) to 45 false
+
+
+Operators\Activity4.js"
+
+You can Join Army!!!
+
+
+Cong Your Are Selected
+
+
+you are 18 or over
+
+
+Operators\Activity5.js"
+
+Number is Negative
+
